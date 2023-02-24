@@ -1,0 +1,21 @@
+{
+  "name": "carrier-billing",
+  "version": "1.0.0",
+  "description": "## Business Context",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@marioyi:larsonlaidlaw/carrier-billing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@json2csv/node": "^6.1.2",
+    "export-to-csv": "^0.2.1",
+    "xlsx": "^0.18.5"
+  }
+}
